@@ -1,0 +1,8 @@
+{
+  "name": "A Little World of Noor",
+  "short_name": "noor.",
+  "icons": [{ "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" }],
+  "theme_color": "#F7F3EE",
+  "background_color": "#F7F3EE",
+  "display": "standalone"
+}
